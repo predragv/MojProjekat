@@ -5,3 +5,7 @@ tekst predraga je unesen
 
 tekst usera je unesen
 
+kod za nesto novo
+while(true){
+neki mnogo dobar kod
+}
