@@ -1,3 +1,7 @@
 Unesi neki tekst: 
 
+<<<<<<< HEAD
 tekst predraga
+=======
+tekst usera je unesen
+>>>>>>> c32386f035ec5356ee95bab01bbff552b54d355c
